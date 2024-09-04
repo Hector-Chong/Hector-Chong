@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Héctor Chong. I am a full-stack developer focusing on building mobile and Web S in Waterloo, Canada.
+My name is Héctor Chong. I am a full-stack developer focusing on building mobile and Web applications in Waterloo, Canada.
 
 ## Ça va 👋
 
